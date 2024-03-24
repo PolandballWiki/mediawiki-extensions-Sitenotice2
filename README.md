@@ -5,8 +5,36 @@ Sitenotice2 - MediaWiki
 <p>An extension that improves the appearance of Sitenotice.</p>
 </div>
 
+<div align="center">
+    <a href="https://central.staging.polandball.wiki/wiki/">
+        Preview
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#-installation">
+        Installation
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#-notes">
+        Notes
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#-configurations">
+        Configurations
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#-usage">
+        Usage
+    </a>
+    <span>&nbsp;✦&nbsp;</span>
+    <a href="#-screenshots">
+        Screenshots
+    </a>
+</div>
+
+<p></p>
+
 <div align="left">
-This extension was built based on the DismissableSiteNotice extension, but with different changes to the HTML and CSS structure to improve its appearance.
+Sitenotice2 is an extension that improves the visual appearance of the MediaWiki Sitenotice notices, this extension places them at the bottom in a floating way. It also adds a header along with a wiki logo. ✨
 </div>
 
 ## 🚀 Installation
@@ -58,3 +86,18 @@ Sitenotice2 was thought to be highly modifiable easily with CSS, so the extensio
 	--sitenotice2-background--secondary: #a51919;
 }
 ```
+
+## Screenshots
+<img src="img/Sitenotice2_Screenshot.png" height="auto" width="auto" /> 
+<img src="img/Sitenotice2_Screenshot_2.png" height="auto" width="auto" /> 
+<img src="img/Sitenotice2_Screenshot_3.gif" height="auto" width="auto" /> 
+
+
+## ✅ Por hacer...
+
+- [ ] Implementar compatibilidad con  <a href="https://www.mediawiki.org/wiki/Extension:DismissableSiteNotice">DismissableSiteNotice</a>.
+- [ ] Corregir border-radius en Citizen, Minerva Y Default.
+- [ ] Alinear de manera más apropiada los Logos del encabezado.
+- [ ] Implementar compatibilidad para idiomas que se lee de derecha a izquierda.
+- [ ] Mejorar la animación al cerrar el aviso.
+- [ ] Añadir compatibilidad con <a href="https://www.mediawiki.org/wiki/Extension:GlobalNotice">GlobalNotice</a>.
