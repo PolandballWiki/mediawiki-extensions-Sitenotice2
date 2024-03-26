@@ -22,11 +22,11 @@ Sitenotice2 - MediaWiki
         Configurations
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-usage">
+    <a href="#%EF%B8%8F-usage">
         Usage
     </a>
     <span>&nbsp;✦&nbsp;</span>
-    <a href="#-screenshots">
+    <a href="#%EF%B8%8F-screenshots">
         Screenshots
     </a>
 </div>
@@ -87,7 +87,7 @@ Sitenotice2 was thought to be highly modifiable easily with CSS, so the extensio
 }
 ```
 
-## Screenshots
+## 🎞️ Screenshots
 <img src="img/Sitenotice2_Screenshot.png" height="auto" width="auto" /> 
 <img src="img/Sitenotice2_Screenshot_2.png" height="auto" width="auto" /> 
 <img src="img/Sitenotice2_Screenshot_3.gif" height="auto" width="auto" /> 
